@@ -2,7 +2,19 @@
 
 # Aora - Full-Stack AI Video Sharing Platform using Expo & React Native
 
-![Aora - Full-Stack AI Video Sharing Platform using Expo & React Native](/.github/images/img_main.png "Aora - Full-Stack AI Video Sharing Platform using Expo & React Native")
+![Aora - Full-Stack AI Video Sharing Platform using Expo & React Native](/aorabanner.png "Aora - Full-Stack AI Video Sharing Platform using Expo & React Native")
+
+## :camera: Screenshots:
+
+<p align="center">
+<img src="/img1.png" alt="Functional Sign In and Sign Up" height="700" title="Functional Sign In and Sign Up" />
+<img src="/img2.png" alt="Modern UI/UX" height="700" title="Modern UI/UX" />
+</p>
+
+<p align="center">
+<img src="/img3.png" alt="Upload AI Videos" height="700" title="Upload AI Videos" />
+<img src="/img4.png" alt="View your Profile" height="700" title="View your Profile" />
+</p>
 
 ## :bangbang: Folder Structure
 
@@ -151,18 +163,6 @@ EXPO_PUBLIC_APPWRITE_STORAGE_ID=000000000000000000000000000
 - Clerk Documentation: https://clerk.com/docs
 
 **NOTE:** Please make sure to keep your API keys and configuration values secure and do not expose them publicly.
-
-## :camera: Screenshots:
-
-<p align="center">
-<img src="/.github/images/img1.png" alt="Functional Sign In and Sign Up" height="700" title="Functional Sign In and Sign Up" />
-<img src="/.github/images/img2.png" alt="Modern UI/UX" height="700" title="Modern UI/UX" />
-</p>
-
-<p align="center">
-<img src="/img3.png" alt="Upload AI Videos" height="700" title="Upload AI Videos" />
-<img src="./img4.png" alt="View your Profile" height="700" title="View your Profile" />
-</p>
 
 ## :gear: Tech Stack
 
