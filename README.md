@@ -2,8 +2,6 @@
 
 # Aora - Full-Stack AI Video Sharing Platform using Expo & React Native
 
-![Aora - Full-Stack AI Video Sharing Platform using Expo & React Native](/.github/images/img_main.png "Aora - Full-Stack AI Video Sharing Platform using Expo & React Native")
-
 ## :bangbang: Folder Structure
 
 Here is the folder structure of Aora.
